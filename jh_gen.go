@@ -9,7 +9,7 @@
 //     src/crypto/jh.h
 //
 // Most comments in the original file are copied as well.
-package jh // import "github.com/pedroalbanese/edgetk/jh"
+package jh // import "github.com/pedroalbanese/jh"
 
 import (
 	"encoding/binary"
