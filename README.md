@@ -1,0 +1,2 @@
+# jh
+JH Hash Function
